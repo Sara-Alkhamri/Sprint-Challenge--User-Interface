@@ -261,3 +261,15 @@ footer nav a {
     border: 1.3px solid black;
 }
 
+
+.bottomSec h2 {
+    margin-top: 20px;
+}
+
+.bottomSec p {
+    margin-bottom: 20px;
+}
+
+.title img {
+    width: 100%;
+}
